@@ -1,0 +1,9 @@
+*{ padding: 0px;
+   margin: 0px;
+}
+.container{
+    background-color: red;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;    
+}
